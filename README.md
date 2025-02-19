@@ -1,10 +1,10 @@
 # 🎓 AI-Powered Academic Assistant  
 **Your Smart Research Companion**  
 
-![Demo Preview](https://raw.githubusercontent.com/keerthi77771/AI-academic-assistant/main/Output%203.png)  
+![Demo Preview](https://github.com/keerthi77771/AI-academic-assistant/blob/main/Output%203)
 
 ## 🌟 Why I Built This  
-As a student/researcher, I often found myself drowning in academic papers and struggling to:  
+As a student, I often found myself drowning in academic papers and struggling to:  
 - 🔍 Quickly find relevant research  
 - 📊 Compare paper impact through citations  
 - 💡 Get clear explanations of complex concepts  
