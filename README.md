@@ -2,6 +2,7 @@
 Your Smart Research Companion
 ![Alt Text](https://github.com/keerthi77771/AI-academic-assistant/blob/main/Output%203)
 
+
 🌟 Why I Built This
 As a student/researcher, I often found myself drowning in academic papers and struggling to:
 
@@ -11,6 +12,7 @@ As a student/researcher, I often found myself drowning in academic papers and st
 
 💡 Get clear explanations of complex concepts
 
+
 This AI assistant is my solution - a smart tool that helps researchers:
 
 ✅ Save hours of manual paper searching
@@ -18,6 +20,7 @@ This AI assistant is my solution - a smart tool that helps researchers:
 ✅ Discover key insights from academic content
 
 ✅ Connect ideas across different studies
+
 
 🚀 Key Features
 
@@ -33,6 +36,7 @@ Collaboration Match	Find researchers with complementary interests
 
 
 ⚙️ Tech Stack
+
 Python
 
 LangChain
@@ -46,10 +50,10 @@ Streamlit
 
 Love the idea? Here's how you can help:
 
-
 Fork the repository
 
 Submit a PR with your improvements
+
 
 Built with ❤️ by Keerthi Devireddy
 
